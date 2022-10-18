@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <div className="Home">
-      <h1>Home Page</h1>
+      <h1>Chat Zone</h1>
       <div>
         <input 
           placeholder="Name"
